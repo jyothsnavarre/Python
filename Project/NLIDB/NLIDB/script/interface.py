@@ -1,0 +1,17 @@
+#!C:\Users\MTS\PycharmProjects\projectStock\venv\Scripts\python.exe
+import cgi,cgitb
+print("Content-type:text/html\r\n\r\n")
+print("<html>")
+print("<head>")
+print("<title>Hello - Second CGI Program</title>")
+print("</head>")
+print("<body background='ba.jpg'>")
+print("<form action='query.py' method='post'>")
+print("<center>")
+print("""<h2 style="color:Blue;"><b>Enter a query!!</b></h2>""")
+print("<input type='search' name='field' value='' autofocus='' style='color: black; width: 450px; border: none; height: 45px; outline: none; padding: 10px; font-size: 16px; box-shadow: rgb(173, 173, 173) 1px 1px 1px; box-sizing: border-box;'>")
+print("<input type='submit'>")
+print("</center>")
+print("</form>")
+print("</body>")
+print("</html>")

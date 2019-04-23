@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<html>
+  <statistics>
+    <srno>3</srno>
+    <stat_tik>ANDV</stat_tik>
+    <marketcap>18.72B</marketcap>
+    <Enterprisevalue>24.59B</Enterprisevalue>
+    <RetOnAss>4.52%</RetOnAss>
+    <TotCash>543M</TotCash>
+    <proMar>4.47%</proMar>
+    <grossPro>6.5B</grossPro>
+    <ooCash>1.63B</ooCash>
+    <totdebt>7.69B</totdebt>
+    <currat>1.38</currat>
+    <lever>315.62M</lever>
+  </statistics>
+  <financials>
+    <fintick>ANDV</fintick>
+    <TotRev>34,204,000</TotRev>
+    <costRev>17,708,000</costRev>
+    <incBefTax>2,630,000</incBefTax>
+    <Netinc>1,694,000</Netinc>
+  </financials>
+  <profiles>
+    <protick>ANDV</protick>
+    <name>Andeavor</name>
+    <address>19100 Ridgewood ParkwaySan Antonio, TX 78259United States210-626-6000http://www.andeavor.com</address>
+    <phno>210-626-6000</phno>
+    <website>http://www.andeavor.com</website>
+    <sector>Energy</sector>
+    <industry>Oil &amp; Gas Refining &amp; Marketing</industry>
+    <fulltime>14,300</fulltime>
+    <business>Andeavor’s ISS Governance QualityScore as of April 1, 2018 is 4. The pillar scores are Audit: 1; Board: 5; Shareholder Rights: 5; Compensation: 4.</business>
+  </profiles>
+</html>

@@ -1,0 +1,5 @@
+tickername
+totalrevenue
+costrevenue
+incomebeforetax
+netincome

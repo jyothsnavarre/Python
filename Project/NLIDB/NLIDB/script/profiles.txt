@@ -1,0 +1,9 @@
+tickername
+name
+address
+phonenum
+website
+sector
+industry
+fulltime
+summary

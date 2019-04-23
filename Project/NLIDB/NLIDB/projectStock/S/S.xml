@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<html>
+  <statistics>
+    <srno>1</srno>
+    <stat_tik>S</stat_tik>
+    <marketcap>26.02B</marketcap>
+    <Enterprisevalue>55.67B</Enterprisevalue>
+    <RetOnAss>2.31%</RetOnAss>
+    <TotCash>4.61B</TotCash>
+    <proMar>21.41%</proMar>
+    <grossPro>18.41B</grossPro>
+    <ooCash>5.67B</ooCash>
+    <totdebt>36.86B</totdebt>
+    <currat>0.92</currat>
+    <lever>2.55B</lever>
+  </statistics>
+  <financials>
+    <fintick>S</fintick>
+    <TotRev>32,180,000</TotRev>
+    <costRev>14,938,000</costRev>
+    <incBefTax>-1,995,000</incBefTax>
+    <Netinc>-1,995,000</Netinc>
+  </financials>
+  <profiles>
+    <protick>S</protick>
+    <name>Sprint Corporation</name>
+    <address>6200 Sprint ParkwayOverland Park, KS 66251United States855-848-3280http://www.sprint.com</address>
+    <phno>855-848-3280</phno>
+    <website>http://www.sprint.com</website>
+    <sector>Communication Services</sector>
+    <industry>Telecom Services</industry>
+    <fulltime>28,000</fulltime>
+    <business>Sprint Corporation’s ISS Governance QualityScore as of April 1, 2018 is 7. The pillar scores are Audit: 1; Board: 8; Shareholder Rights: 6; Compensation: 6.</business>
+  </profiles>
+</html>

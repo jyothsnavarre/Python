@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<html>
+  <statistics>
+    <srno>8</srno>
+    <stat_tik>NKE</stat_tik>
+    <marketcap>112.11B</marketcap>
+    <Enterprisevalue>106.82B</Enterprisevalue>
+    <RetOnAss>11.88%</RetOnAss>
+    <TotCash>4.75B</TotCash>
+    <proMar>5.11%</proMar>
+    <grossPro>15.31B</grossPro>
+    <ooCash>3.44B</ooCash>
+    <totdebt>3.49B</totdebt>
+    <currat>2.65</currat>
+    <lever>2.53B</lever>
+  </statistics>
+  <financials>
+    <fintick>NKE</fintick>
+    <TotRev>34,350,000</TotRev>
+    <costRev>30,306,000</costRev>
+    <incBefTax>4,205,000</incBefTax>
+    <Netinc>4,240,000</Netinc>
+  </financials>
+  <profiles>
+    <protick>NKE</protick>
+    <name>NIKE, Inc.</name>
+    <address>One Bowerman DriveBeaverton, OR 97005United States503-671-6453http://www.nike.com</address>
+    <phno>503-671-6453</phno>
+    <website>http://www.nike.com</website>
+    <sector>Consumer Goods</sector>
+    <industry>Textile - Apparel Footwear &amp; Accessories</industry>
+    <fulltime>74,400</fulltime>
+    <business>NIKE, Inc.’s ISS Governance QualityScore as of April 1, 2018 is 10. The pillar scores are Audit: 2; Board: 7; Shareholder Rights: 10; Compensation: 3.</business>
+  </profiles>
+</html>

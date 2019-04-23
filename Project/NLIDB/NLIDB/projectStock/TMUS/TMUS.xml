@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<html>
+  <statistics>
+    <srno>2</srno>
+    <stat_tik>TMUS</stat_tik>
+    <marketcap>54.78B</marketcap>
+    <Enterprisevalue>83.31B</Enterprisevalue>
+    <RetOnAss>4.37%</RetOnAss>
+    <TotCash>1.22B</TotCash>
+    <proMar>11.25%</proMar>
+    <grossPro>22.9B</grossPro>
+    <ooCash>7.96B</ooCash>
+    <totdebt>30.91B</totdebt>
+    <currat>0.77</currat>
+    <lever>-646.37M</lever>
+  </statistics>
+  <financials>
+    <fintick>TMUS</fintick>
+    <TotRev>37,490,000</TotRev>
+    <costRev>17,708,000</costRev>
+    <incBefTax>3,161,000</incBefTax>
+    <Netinc>4,536,000</Netinc>
+  </financials>
+  <profiles>
+    <protick>TMUS</protick>
+    <name>T-Mobile US, Inc.</name>
+    <address>12920 SE 38th StreetBellevue, WA 98006United States425-378-4000http://www.t-mobile.com</address>
+    <phno>425-378-4000</phno>
+    <website>http://www.t-mobile.com</website>
+    <sector>Communication Services</sector>
+    <industry>Telecom Services</industry>
+    <fulltime>51,000</fulltime>
+    <business>T-Mobile US, Inc.’s ISS Governance QualityScore as of April 1, 2018 is 8. The pillar scores are Audit: 1; Board: 10; Shareholder Rights: 6; Compensation: 2.</business>
+  </profiles>
+</html>

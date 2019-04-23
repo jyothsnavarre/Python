@@ -1,0 +1,12 @@
+srNo
+tickerName
+marketcap
+enterprisevalue
+returnassets
+totalcash
+operatingcashflow
+leveredfreecashflow
+totaldebt
+currentratio
+grossprofit
+profitmargin

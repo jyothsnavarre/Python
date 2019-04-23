@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<html>
+  <statistics>
+    <srno>4</srno>
+    <stat_tik>MPC</stat_tik>
+    <marketcap>38.63B</marketcap>
+    <Enterprisevalue>46.84B</Enterprisevalue>
+    <RetOnAss>4.93%</RetOnAss>
+    <TotCash>3.01B</TotCash>
+    <proMar>5.10%</proMar>
+    <grossPro>7.96B</grossPro>
+    <ooCash>6.61B</ooCash>
+    <totdebt>12.95B</totdebt>
+    <currat>1.28</currat>
+    <lever>3.27B</lever>
+  </statistics>
+  <financials>
+    <fintick>MPC</fintick>
+    <TotRev>67,294,000</TotRev>
+    <costRev>17,708,000</costRev>
+    <incBefTax>3,344,000</incBefTax>
+    <Netinc>3,804,000</Netinc>
+  </financials>
+  <profiles>
+    <protick>MPC</protick>
+    <name>Marathon Petroleum Corporation</name>
+    <address>539 South Main StreetFindlay, OH 45840United States419-422-2121http://www.marathonpetroleum.com</address>
+    <phno>419-422-2121</phno>
+    <website>http://www.marathonpetroleum.com</website>
+    <sector>Energy</sector>
+    <industry>Oil &amp; Gas Refining &amp; Marketing</industry>
+    <fulltime>43,800</fulltime>
+    <business>Marathon Petroleum Corporation’s ISS Governance QualityScore as of April 1, 2018 is 7. The pillar scores are Audit: 1; Board: 9; Shareholder Rights: 9; Compensation: 1.</business>
+  </profiles>
+</html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<html>
+  <statistics>
+    <srno>7</srno>
+    <stat_tik>DIS</stat_tik>
+    <marketcap>149.21B</marketcap>
+    <Enterprisevalue>172.31B</Enterprisevalue>
+    <RetOnAss>9.29%</RetOnAss>
+    <TotCash>4.68B</TotCash>
+    <proMar>19.61%</proMar>
+    <grossPro>24.83B</grossPro>
+    <ooCash>13.13B</ooCash>
+    <totdebt>26.09B</totdebt>
+    <currat>0.87</currat>
+    <lever>8.68B</lever>
+  </statistics>
+  <financials>
+    <fintick>DIS</fintick>
+    <TotRev>55,632,000</TotRev>
+    <costRev>30,306,000</costRev>
+    <incBefTax>13,788,000</incBefTax>
+    <Netinc>8,980,000</Netinc>
+  </financials>
+  <profiles>
+    <protick>DIS</protick>
+    <name>The Walt Disney Company</name>
+    <address>500 South Buena Vista StreetBurbank, CA 91521United States818-560-1000http://www.thewaltdisneycompany.com</address>
+    <phno>818-560-1000</phno>
+    <website>http://www.thewaltdisneycompany.com</website>
+    <sector>Consumer Cyclical</sector>
+    <industry>Media - Diversified</industry>
+    <fulltime>199,000</fulltime>
+    <business>The Walt Disney Company’s ISS Governance QualityScore as of April 1, 2018 is 9. The pillar scores are Audit: 1; Board: 6; Shareholder Rights: 3; Compensation: 10.</business>
+  </profiles>
+</html>

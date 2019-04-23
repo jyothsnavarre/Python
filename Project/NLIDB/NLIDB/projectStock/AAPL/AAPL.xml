@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<html>
+  <statistics>
+    <srno>5</srno>
+    <stat_tik>AAPL</stat_tik>
+    <marketcap>823.61B</marketcap>
+    <Enterprisevalue>931.83B</Enterprisevalue>
+    <RetOnAss>10.89%</RetOnAss>
+    <TotCash>77.15B</TotCash>
+    <proMar>21.13%</proMar>
+    <grossPro>88.19B</grossPro>
+    <ooCash>64.66B</ooCash>
+    <totdebt>122.4B</totdebt>
+    <currat>1.24</currat>
+    <lever>44.58B</lever>
+  </statistics>
+  <financials>
+    <fintick>AAPL</fintick>
+    <TotRev>215,639,000</TotRev>
+    <costRev>141,048,000</costRev>
+    <incBefTax>72,515,000</incBefTax>
+    <Netinc>48,351,000</Netinc>
+  </financials>
+  <profiles>
+    <protick>AAPL</protick>
+    <name>Apple Inc.</name>
+    <address>1 Infinite LoopCupertino, CA 95014United States408-996-1010http://www.apple.com</address>
+    <phno>408-996-1010</phno>
+    <website>http://www.apple.com</website>
+    <sector>Technology</sector>
+    <industry>Consumer Electronics</industry>
+    <fulltime>100,000</fulltime>
+    <business>Apple Inc.’s ISS Governance QualityScore as of April 1, 2018 is 1. The pillar scores are Audit: 1; Board: 2; Shareholder Rights: 1; Compensation: 6.</business>
+  </profiles>
+</html>

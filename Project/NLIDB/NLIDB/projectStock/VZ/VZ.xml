@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<html>
+  <statistics>
+    <srno>6</srno>
+    <stat_tik>VZ</stat_tik>
+    <marketcap>213.09B</marketcap>
+    <Enterprisevalue>312.84B</Enterprisevalue>
+    <RetOnAss>7.51%</RetOnAss>
+    <TotCash>2.08B</TotCash>
+    <proMar>23.88%</proMar>
+    <grossPro>74.48B</grossPro>
+    <ooCash>25.3B</ooCash>
+    <totdebt>117.51B</totdebt>
+    <currat>0.90</currat>
+    <lever>12.95B</lever>
+  </statistics>
+  <financials>
+    <fintick>VZ</fintick>
+    <TotRev>125,980,000</TotRev>
+    <costRev>51,556,000</costRev>
+    <incBefTax>30,024,000</incBefTax>
+    <Netinc>30,101,000</Netinc>
+  </financials>
+  <profiles>
+    <protick>VZ</protick>
+    <name>Verizon Communications Inc.</name>
+    <address>1095 Avenue of the AmericasNew York, NY 10036United States212-395-1000http://www.verizon.com</address>
+    <phno>212-395-1000</phno>
+    <website>http://www.verizon.com</website>
+    <sector>Communication Services</sector>
+    <industry>Telecom Services</industry>
+    <fulltime>155,400</fulltime>
+    <business>Verizon Communications Inc.’s ISS Governance QualityScore as of April 1, 2018 is 3. The pillar scores are Audit: 1; Board: 5; Shareholder Rights: 4; Compensation: 3.</business>
+  </profiles>
+</html>

@@ -1,0 +1,30 @@
+ACB::Aurora Cannabis Inc.
+^N225::Nikkei 225
+WDI.DE::Wirecard AG
+VEEV::Veeva Systems Inc.
+CL=F::Crude Oil
+^BSESN::S&P BSE SENSEX
+DIS::The Walt Disney Company
+EURUSD=X::EUR/USD
+000001.SS::SSE Composite Index
+AMRN::Amarin Corporation plc
+GOOG::Alphabet Inc.
+ACB.TO::Aurora Cannabis Inc.
+SNAP::Snap Inc.
+:entitySlug:::entitySlug
+SNE::Sony Corporation
+^JKSE::Jakarta Composite Index
+0700.HK::Tencent Holdings Limited
+CRON::Cronos Group Inc.
+GBPUSD=X::GBP/USD
+GOOGL::Alphabet Inc.
+GC=F::Gold
+UGAZ::VelocityShares 3x Long Natural Gas ETN
+BTC-USD::Bitcoin USD
+TLRY::Tilray, Inc.
+^HSI::HANG SENG INDEX
+WMT::Walmart Inc.
+CGC::Canopy Growth Corporation
+NBEV::New Age Beverages Corporation
+^NSEI::NIFTY 50
+^NSEBANK::NIFTY BANK
